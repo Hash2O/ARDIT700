@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScreen.unity
+    guid: 8ca3a79ccfb96264abfd6b8fb5789bef
+  - enabled: 1
+    path: Assets/Scenes/CollecteScreen.unity
+    guid: 5f0fc767ca679a2479bdce076364e900
+  - enabled: 1
+    path: Assets/Scenes/AppScreen.unity
+    guid: cc0540f159765f14fbcca7f871c97a06
+  - enabled: 1
+    path: Assets/Scenes/HorairesScreen.unity
+    guid: 5c49ffcb430f11e4699d58559aa3a158
+  - enabled: 1
+    path: Assets/Scenes/LocaliserScreen.unity
+    guid: 16aef090d3342fd47b3d475515e2a0da
+  - enabled: 1
+    path: Assets/Scenes/SignalerScreen.unity
+    guid: 9ded39fb9aefb6d4f8e27631c6480dfa
+  - enabled: 1
+    path: Assets/Scenes/ForumScreen.unity
+    guid: 952bf97b27d9dd641968d5c7aa01899f
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: da393c95e567d37469d1b2747ba32a4a,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: df2a385f97a45ab4d970124092c36f79,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fa10a28fd8d4b5d448bc6e288ec0758d,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b11497d5f43433c468f688783dd62ee3,
+      type: 2}
